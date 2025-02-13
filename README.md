@@ -6,6 +6,9 @@
 ---
 ![AR-Education](https://github.com/user-attachments/assets/93e96ff9-0098-4f12-939c-8d4fa8f0b4f4) 
 ![AR-Education](https://github.com/user-attachments/assets/fa8c5d12-0a58-49ba-9bbb-182520dedd55) 
+## 🎥 **Demo**  
+![Demo Video](https://github.com/user-attachments/assets/ac620818-bdaa-47c9-b07c-67374845acb1)  
+▶️ *Watch AR Education Explorer in action!* 
 ## 🎨 **Features**  
 ✅ **Interactive 3D Models**  
 🔹 Explore **detailed, high-quality 3D models** across various subjects.  
@@ -44,9 +47,7 @@
 
 ---
 
-## 🎥 **Demo**  
-![Demo Video](https://github.com/user-attachments/assets/ac620818-bdaa-47c9-b07c-67374845acb1)  
-▶️ *Watch AR Education Explorer in action!*  
+ 
 
 ---
 
