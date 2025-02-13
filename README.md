@@ -1,4 +1,4 @@
-📚 # AR Education Explorer
+#📚 AR Education Explorer
 
 🌍 # Overview
 
