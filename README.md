@@ -1,10 +1,10 @@
-📚 AR Education Explorer
+📚 # AR Education Explorer
 
-🌍 Overview
+🌍 # Overview
 
 AR Education Explorer is an innovative augmented reality (AR) application designed to revolutionize learning for primary and college students. The app offers interactive 3D educational models, including the solar system, human anatomy, and historical landmarks, making complex subjects visually engaging and easier to understand. By integrating AR technology, students can explore educational topics immersively, leading to better retention and comprehension.
 
-🎨 Features
+🎨 # Features
 
 ✅ Interactive 3D Models🔹 Explore detailed, high-quality 3D models across various subjects.🔹 Subjects include Science, History, and Geography.
 
@@ -16,7 +16,7 @@ AR Education Explorer is an innovative augmented reality (AR) application design
 
 ✅ Seamless AR Integration🔹 Built with ARCore & AR Foundation for accurate AR tracking.🔹 Optimized for various mobile devices without additional hardware.
 
-🛠 Technologies Used
+🛠 # Technologies Used
 
 🚀 Unity – Game engine for AR development and rendering.💻 C# – Core programming language for application logic.📌 ARCore – Google's AR platform for environment tracking.🛠 AR Foundation – Cross-platform AR development framework.
 
