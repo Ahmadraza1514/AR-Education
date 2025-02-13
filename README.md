@@ -1,1 +1,2 @@
-# AR-Application
+# AR-Education-Explorer
+AR Education Explorer is an augmented reality (AR) application designed to enhance learning for primary and college students. The app allows users to interact with 3D educational models, such as the solar system, human anatomy, and historical landmarks, making complex concepts more engaging and visually intuitive. By integrating AR technology, students can explore subjects in an immersive way, improving understanding and retention.
