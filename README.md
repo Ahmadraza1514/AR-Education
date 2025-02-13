@@ -44,7 +44,7 @@
 ---
 
 ## 🎥 **Demo**  
-![Demo Video]([https://github.com/user-attachments/assets/demo-video-url](https://github.com/user-attachments/assets/ac620818-bdaa-47c9-b07c-67374845acb1))  
+![Demo Video](https://github.com/user-attachments/assets/ac620818-bdaa-47c9-b07c-67374845acb1)  
 ▶️ *Watch AR Education Explorer in action!*  
 
 ---
