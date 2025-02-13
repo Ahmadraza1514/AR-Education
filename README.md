@@ -5,7 +5,7 @@
 
 ---
 ![AR-Education](https://github.com/user-attachments/assets/93e96ff9-0098-4f12-939c-8d4fa8f0b4f4) 
-![AR-Education](https://github.com/user-attachments/assets/68e2d640-0a91-4eb3-9168-44ecf9c1484b) 
+![AR-Education](https://github.com/user-attachments/assets/fa8c5d12-0a58-49ba-9bbb-182520dedd55) 
 ## 🎨 **Features**  
 ✅ **Interactive 3D Models**  
 🔹 Explore **detailed, high-quality 3D models** across various subjects.  
